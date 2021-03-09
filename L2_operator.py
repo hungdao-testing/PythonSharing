@@ -35,14 +35,14 @@ print("so sanh hai chữ: ", "baf" >= "apple")  # true, vì theo order alphabet.
 
 
 # 3.3. Logical Operator: AND, OR, NOT
-# AND: nếu tất cả các so sanh đều là TRUE -> ket qua cuoi cùng là TRUE, còn lai la FALSE
+# AND: nếu TẤT CẢ các so sanh đều là TRUE -> ket qua cuoi cùng là TRUE, còn lai la FALSE
 is_positive_num = (1 > 0) and (2 >= -1)
 print("is_positive_num: ", is_positive_num)
 
 is_positive_num = (-1 > 0) and (2 > -1)
 print("is_positive_num: ", is_positive_num)
 
-# OR: nếu tất cả các so sanh đều là FALSE -> ket qua cuoi cùng là TRUE, còn lai la FALSE
+# OR: nếu TẤT CẢ các so sanh đều là FALSE -> ket qua cuoi cùng là FALSE, còn lai la TRUE.
 is_valid = (4 % 2 == 0) or (5 / 1 > 6)
 print("is valid: ", is_valid)
 
