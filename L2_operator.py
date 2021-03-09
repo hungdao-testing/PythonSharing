@@ -31,6 +31,9 @@ print("so sanh lon hon", 1 >= 1)
 print("so sanh nhỏ hon", 2 <= 3)
 print("so sanh hai chữ: ", "baf" >= "apple")  # true, vì theo order alphabet.
 
+# Alphabet Order in Python: A -> Z -> a -> z (tang dan, nghĩa là: A <..<Z < a <...<z trong so sánh)
+
+
 # 3.3. Logical Operator: AND, OR, NOT
 # AND: nếu tất cả các so sanh đều là TRUE -> ket qua cuoi cùng là TRUE, còn lai la FALSE
 is_positive_num = (1 > 0) and (2 >= -1)
