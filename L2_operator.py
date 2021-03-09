@@ -46,6 +46,11 @@ print("is valid: ", is_valid)
 is_valid = (4 % 2 != 0) or (5 / 1 > 6)
 print("is valid: ", is_valid)
 
+# NOT: dao nguoc ket qua (True-> False, False -> True)
+age_Nam = 19
+print("Ket qua dao nguoc: ", not(age_Nam > 10))  # False
+
+
 # 3.4. Python Membership Operators  (sẽ coi lai trong bài array, tupple)
 # kiểm tra 1 phần tử có thuộc hay ko thuộc vè 1 tập nào đó: trả về True/False
 tap_hop_so = [1, 3, 6, 9]
