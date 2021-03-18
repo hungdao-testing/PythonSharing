@@ -48,3 +48,10 @@ for x in range(2):
 # ****
 # *****
 # ******
+
+# Ex6. Use a loop to display elements from a given list that are present at even index positions
+# reference: https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/
+# Thử tự làm, rồi đọc bài giải
+
+# Ex7. Đọc bài giải của `Ex13: Write a loop to find the factorial of any number`
+# trong link https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/
