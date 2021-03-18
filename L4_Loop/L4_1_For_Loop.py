@@ -41,7 +41,7 @@ for x in range(2):
 #  1 * 2 = 2
 #  .....
 
-# Ex5. In ngôi sao ra màn hình với đinh dạng ra sao
+# Ex5. In ngôi sao ra màn hình với đinh dạng ra sao (https://pynative.com/print-pattern-python-examples/)
 # *
 # **
 # ***
