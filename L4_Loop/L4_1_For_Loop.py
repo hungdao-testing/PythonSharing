@@ -36,3 +36,7 @@ for x in range(2):
 # 1. Print các số từ trong khoảng [10, 100]
 # 2. Print các số chẳn trong khoảng [0, 10]
 # 3. Print các số lẻ trong khoảng [0, 10]
+# 4. Nhập 1 số nguyên từ màn hình, và in bảng cửu chương cho số đó, với định dạng (format):
+#  1 * 1 = 1
+#  1 * 2 = 2
+#  .....
