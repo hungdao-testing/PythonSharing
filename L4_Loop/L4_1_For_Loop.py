@@ -33,10 +33,18 @@ for x in range(2):
 
 
 ################# E. Exercise #######################
-# 1. Print các số từ trong khoảng [10, 100]
-# 2. Print các số chẳn trong khoảng [0, 10]
-# 3. Print các số lẻ trong khoảng [0, 10]
-# 4. Nhập 1 số nguyên từ màn hình, và in bảng cửu chương cho số đó, với định dạng (format):
+# Ex1. Print các số từ trong khoảng [10, 100]
+# Ex2. Print các số chẳn trong khoảng [0, 10]
+# Ex3. Print các số lẻ trong khoảng [0, 10]
+# Ex4. Nhập 1 số nguyên từ màn hình, và in bảng cửu chương cho số đó, với định dạng (format):
 #  1 * 1 = 1
 #  1 * 2 = 2
 #  .....
+
+# Ex5. In ngôi sao ra màn hình với đinh dạng ra sao
+# *
+# **
+# ***
+# ****
+# *****
+# ******
